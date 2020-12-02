@@ -1,21 +1,21 @@
 {
-    "name": "vscode-night-walk-theme",
-    "displayName": "vscode-night-walk-theme",
-    "description": "Theme for vscode written in night for night people 🌃",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Night Walk",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Night Walk-color-theme.json"
-            }
-        ]
-    }
+  "name": "vscode-night-walk-theme",
+  "displayName": "vscode-night-walk-theme",
+  "description": "Theme for vscode written in night for night people 🌃",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Walk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Walk-color-theme.json"
+      }
+    ]
+  }
 }
