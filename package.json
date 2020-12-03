@@ -5,7 +5,7 @@
   "repository": "https://github.com/parthw/vscode-night-walk-theme",
   "publisher": "parthw-vscode",
   "icon": "https://github.com/parthw/vscode-night-walk-theme/blob/main/icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.51.0"
   },
