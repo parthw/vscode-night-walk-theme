@@ -7,6 +7,8 @@ And sitting at the city park bench, taking a deep breath after successful compil
 
 The colour scheme is influenced by the cold breeze, tea and colorful playground equipments like seasaw etc.
 
+## Screenshots
+
 ![React text](./react.png)
 ![Golang text](./grpc.png)
 
@@ -22,7 +24,7 @@ The colour scheme is influenced by the cold breeze, tea and colorful playground 
 
 I haven't included any font in this release as I know that it's a very personal preference. The font I use (that is seen in the image above) is [Fira Code](https://github.com/tonsky/FiraCode), which I recommend if you're a fan of ligatures.
 
-### Feedback
+## Feedback
 
 If you have suggestions, please [open an issue](https://github.com/parthw/vscode-night-walk-theme/issues) or better yet, a [pull request](https://github.com/parthw/vscode-night-walk-theme/pulls).
 
