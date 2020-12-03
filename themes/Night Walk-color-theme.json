@@ -294,7 +294,7 @@
         "source.go"
       ],
       "settings": {
-        "foreground": "#baddfa"
+        "foreground": "#c2e0f8"
       }
     },
     {
@@ -396,7 +396,7 @@
       "name": "Json Property",
       "scope": "support.dictionary.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#4daaf6"
       }
     },
     {
@@ -507,7 +507,7 @@
       "name": "JSON String",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#4daaf6"
       }
     },
     {

@@ -4,6 +4,7 @@
   "description": "Theme for vscode written in night for night people 🌃",
   "repository": "https://github.com/parthw/vscode-night-walk-theme",
   "publisher": "parthw-vscode",
+  "icon": "https://github.com/parthw/vscode-night-walk-theme/blob/main/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.51.0"
