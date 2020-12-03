@@ -1,12 +1,14 @@
 # Night Walk
 
-Do you write code 💻 late night and go out for tea 🍵 to refresh❓
-Having tea 🍵 at streets in cold nights is so relieving :relieved:. And sitting at the city park and taking a deep breath after successful compilation of code is worth it ✌️.
+Do you write code late night and go out for tea 🍵 to refresh❓
+
+Having tea 🍵 at streets in cold nights is so relieving. :relieved:
+And sitting at the city park bench, taking a deep breath after successful compilation of code is really worth it. ✌️
 
 The colour scheme is influenced by the cold breeze, tea and colorful playground equipments like seasaw etc.
 
-![Golang text](./grpc.png)
 ![React text](./react.png)
+![Golang text](./grpc.png)
 
 ## Installation
 
@@ -24,7 +26,7 @@ I haven't included any font in this release as I know that it's a very personal 
 
 If you have suggestions, please [open an issue](https://github.com/parthw/vscode-night-walk-theme/issues) or better yet, a [pull request](https://github.com/parthw/vscode-night-walk-theme/pulls).
 
-Be nice 😅.
+Be nice. 😄
 
 ## Credits
 
