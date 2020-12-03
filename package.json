@@ -2,10 +2,19 @@
   "name": "vscode-night-walk-theme",
   "displayName": "Night Walk",
   "description": "Theme for vscode written in night for night people 🌃",
-  "repository": "https://github.com/parthw/vscode-night-walk-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parthw/vscode-night-walk-theme"
+  },
   "publisher": "parthw-vscode",
   "icon": "icon.png",
-  "version": "0.0.3",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "Theme",
+    "Night Theme",
+    "Dark Theme"
+  ],
   "engines": {
     "vscode": "^1.51.0"
   },
