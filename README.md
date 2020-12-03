@@ -1,16 +1,25 @@
 # Night Walk
 
-Do you write code late night and go out for tea 🍵 to refresh❓
+Do you write code late night and go out for tea to refresh❓
 
-Having tea 🍵 at streets in cold nights is so relieving. :relieved:
+Having tea at streets in cold nights is so relieving.
 And sitting at the city park bench, taking a deep breath after successful compilation of code is really worth it. ✌️
 
 The colour scheme is influenced by the cold breeze, tea and colorful playground equipments like seasaw etc.
 
 ## Screenshots
 
-![React text](./react.png)
-![Golang text](./grpc.png)
+<p align="center">
+<a href="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/react.png">
+<img src="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/react.png" alt="react image" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/grpc.png">
+<img src="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/grpc.png" alt=" golang image" />
+</a>
+</p>
 
 ## Installation
 
@@ -32,4 +41,4 @@ Be nice. 😄
 
 ## Credits
 
-Credit where credit is due... when I started writing this theme, I don't have any ideas where to put which color. There are so many themes I took reference from and to understand the design patterns i.e. Visual Studio Dark+, Monokai, Winter is Coming, Github Vscode theme, Tokyo Night and and Celestial.
+Credit where credit is due... when I started writing this theme, I didn't have any idea where to put which color. There are so many themes I took reference from and to understand the design patterns i.e. Visual Studio Dark+, Monokai, Winter is Coming, Github Vscode theme, Tokyo Night and and Celestial.
