@@ -7,20 +7,6 @@ And sitting at the city park bench, taking a deep breath after successful compil
 
 The colour scheme is influenced by the cold breeze, tea and colorful playground equipments like seasaw etc.
 
-## Screenshots
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/react.png">
-<img src="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/react.png" alt="react image" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/grpc.png">
-<img src="https://raw.githubusercontent.com/parthw/vscode-night-walk-theme/main/grpc.png" alt=" golang image" />
-</a>
-</p>
-
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`

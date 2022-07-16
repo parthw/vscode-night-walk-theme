@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "vscode-night-walk-theme" extension will be documented in this file.
+## 1.0.3
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Initial release.
 
-## [Unreleased]
+## 1.0.4
 
-- Initial release
+- Removed grey color from variable assignment because it started to seem odd. Let me know your thoughts on this reader. 😄

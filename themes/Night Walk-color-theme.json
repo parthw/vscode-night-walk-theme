@@ -146,9 +146,7 @@
     "peekViewEditor.background": "#1f242888",
     "peekViewResult.background": "#1f2428",
     "settings.headerForeground": "#e1e4e8",
-    "settings.modifiedItemIndicator": "#0366d6",
-    "welcomePage.buttonBackground": "#2f363d",
-    "welcomePage.buttonHoverBackground": "#444d56"
+    "settings.modifiedItemIndicator": "#0366d6"
   },
   "semanticHighlighting": true,
   "tokenColors": [
@@ -290,11 +288,10 @@
         "variable.other.readwrite.instance",
         "variable.other.readwrite.batchfile",
         "variable.readwrite",
-        "variable.readwrite.other.block",
-        "source.go"
+        "variable.readwrite.other.block"
       ],
       "settings": {
-        "foreground": "#c2e0f8"
+        "foreground": "#6ad9fe"
       }
     },
     {
@@ -302,10 +299,11 @@
       "scope": [
         "variable.other",
         "variable.other.property",
-        "variable.other.block"
+        "variable.other.block",
+        "source.go"
       ],
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#c2e0f8"
       }
     },
     {
