@@ -154,7 +154,8 @@
       "name": "Comment",
       "scope": ["comment", "string.comment"],
       "settings": {
-        "foreground": "#676f7d"
+        "foreground": "#676f7d",
+        "fontStyle": "italic"
       }
     },
     {
@@ -237,7 +238,8 @@
       "scope": [
         "keyword",
         "keyword.operator.logical",
-        "keyword.operator.constructor"
+        "keyword.operator.constructor",
+        "punctuation.definition.decorator.python"
       ],
       "settings": {
         "foreground": "#e06c75"
@@ -252,7 +254,7 @@
     },
     {
       "name": "Storage",
-      "scope": "storage",
+      "scope": ["storage", "storage.type.function.python"],
       "settings": {
         "foreground": "#e06c75"
       }
@@ -274,8 +276,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#388bcf",
-        "fontStyle": "italic"
+        "foreground": "#4DAAF6"
       }
     },
     {
@@ -300,7 +301,8 @@
         "variable.other",
         "variable.other.property",
         "variable.other.block",
-        "source.go"
+        "source.go",
+        "source.python"
       ],
       "settings": {
         "foreground": "#c2e0f8"
